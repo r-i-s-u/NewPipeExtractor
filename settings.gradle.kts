@@ -18,5 +18,5 @@ dependencyResolutionManagement {
         maven(url = "https://jitpack.io")
     }
 }
-include("extractor", "timeago-parser", "timeago-generator")
+include("extractor")
 rootProject.name = "NewPipeExtractor"
